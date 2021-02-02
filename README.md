@@ -9,23 +9,23 @@
 * [Competetive Programming Handbook](https://cses.fi/book/book.pdf)
   (A very popular book and easy to read)
 * [CP algorithms website](http://cp-algorithms.com/)(Translation of e-maxx russian site. A wonderful collection of articles well catogorized )
-* [Competetive Programming 3 Book](https://cpbook.net/)(pdf copy will be available in internet)
+* [Competetive Programming 3 Book](https://cpbook.net/)(Pdf copy will be available in internet)
 * [Geeks for Geeks](https://www.geeksforgeeks.org/)
 * [Codeforces blog exploring various resources](https://codeforces.com/blog/entry/23054)(This blog contains a very vast collection of various cp resources and rating for each resource)
 
 
 ### Topic Wise
   * [Topic wise CSES PROBLEMS](https://cses.fi/problemset/)
-  * [DSA LEARNING Series codechef](https://www.codechef.com/LEARNDSA)( A series of 11 practice contests which will cover curated problems from a certain topic(s))
-  * [Medium blog](https://medium.com/@karangujar43/best-resources-for-competitive-programming-algorithms-and-data-structures-730cb038e11b)
-  * [Codechef blog](https://discuss.codechef.com/t/data-structures-and-algorithms/6599)(This blog is a list of algorithms with links to their tutorials,implementations,some problems)
-  * [Code forces blog](https://codeforces.com/blog/entry/57282)(A similar collection on codeforces)
-  * [Topic wise problems](https://codeforces.com/blog/entry/55274)(More boarder catagories and problems on each category)
+  * [DSA LEARNING Series Codechef](https://www.codechef.com/LEARNDSA)( A series of 11 practice contests which will cover curated problems from a certain topic(s))
+  * [Medium Blog](https://medium.com/@karangujar43/best-resources-for-competitive-programming-algorithms-and-data-structures-730cb038e11b)
+  * [Codechef Blog](https://discuss.codechef.com/t/data-structures-and-algorithms/6599)(This blog is a list of algorithms with links to their tutorials,implementations,some problems)
+  * [Code Forces Blog](https://codeforces.com/blog/entry/57282)(A similar collection on codeforces)
+  * [Topic Wise Problems](https://codeforces.com/blog/entry/55274)(More boarder catagories and problems on each category)
 
 ### Interview Corner
-* [Strivers SDE List](https://docs.google.com/document/d/1SM92efk8oDl8nyVw8NHPnbGexTS9W-1gmTEYfEurLWQ/edit)(a list of problems with 30 days plan)
-* [Striver cp list](https://docs.google.com/document/d/1vShwt8yXYUOgkF53-iYAuJXWR7Yi5VSJrW2xB49o0PM/edit)
-* [Love babbars list](https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view)
+* [Strivers SDE List](https://docs.google.com/document/d/1SM92efk8oDl8nyVw8NHPnbGexTS9W-1gmTEYfEurLWQ/edit)(A list of problems with a 30 days plan to cover them)
+* [Strivers CP List](https://docs.google.com/document/d/1vShwt8yXYUOgkF53-iYAuJXWR7Yi5VSJrW2xB49o0PM/edit)
+* [Love Babbars List](https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view)
 * [Geeks for Geeks Must Do Questions](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/?ref=shm)
 * [Leetcode](https://leetcode.com/problemset/top-interview-questions/)
 ### Learning sprint 1
@@ -51,9 +51,9 @@
 ### Other Resources
    * [Trello](https://trello.com/b/TWSfC3uS/competitive-programming)
    * [Clist.by](https://clist.by/) (Website to know about ongoing contests from various websites)
-   * [CP and interview resources google doc](https://docs.google.com/document/d/1haotfY0ZSobMq-ZaIqcN_U181-2z6oeyk0bbI_qzZEg/edit)
+   * [CP and Interview Resources Google doc](https://docs.google.com/document/d/1haotfY0ZSobMq-ZaIqcN_U181-2z6oeyk0bbI_qzZEg/edit)
    * Dynamic programming resources
         - [Leetcode](https://leetcode.com/discuss/general-discussion/1000929/solved-all-dynamic-programming-dp-problems-in-7-months)
-        - [codeforces]( https://codeforces.com/group/t7UKRkTXSU/blog/entry/6526)
-        - [geeks for geeks](https://www.geeksforgeeks.org/dynamic-programming/)
+        - [Code Forces]( https://codeforces.com/group/t7UKRkTXSU/blog/entry/6526)
+        - [Geeks for Geeks](https://www.geeksforgeeks.org/dynamic-programming/)
         - [Leetcode DP patterns](https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns)
