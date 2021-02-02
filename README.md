@@ -26,7 +26,7 @@
 * [Strivers SDE List](https://docs.google.com/document/d/1SM92efk8oDl8nyVw8NHPnbGexTS9W-1gmTEYfEurLWQ/edit)(a list of problems with 30 days plan)
 * [Striver cp list](https://docs.google.com/document/d/1vShwt8yXYUOgkF53-iYAuJXWR7Yi5VSJrW2xB49o0PM/edit)
 * [Love babbars list](https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view)
-* [Geeks for Geeks must do questions](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/?ref=shm)
+* [Geeks for Geeks Must Do Questions](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/?ref=shm)
 * [Leetcode](https://leetcode.com/problemset/top-interview-questions/)
 ### Learning sprint 1
   * #### Beginner Track(Binary Search and Recursion!)
