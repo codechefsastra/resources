@@ -16,6 +16,7 @@
 
 ### Topic Wise
   * [Topic wise CSES PROBLEMS](https://cses.fi/problemset/)
+  * [Indian programming camp and mini courses(videos)](https://www.codechef.com/cptutorials)
   * [DSA LEARNING Series Codechef](https://www.codechef.com/LEARNDSA) ( A series of 11 practice contests which will cover curated problems from a certain topic(s))
   * [Medium Blog](https://medium.com/@karangujar43/best-resources-for-competitive-programming-algorithms-and-data-structures-730cb038e11b)
   * [Codechef Blog](https://discuss.codechef.com/t/data-structures-and-algorithms/6599) (This blog is a list of algorithms with links to their tutorials,implementations,some problems)
