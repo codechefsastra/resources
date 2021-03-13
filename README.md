@@ -26,7 +26,7 @@
 ### Interview Corner
 * [Strivers SDE List](https://docs.google.com/document/d/1SM92efk8oDl8nyVw8NHPnbGexTS9W-1gmTEYfEurLWQ/edit) (A list of problems with a 30 days plan to cover them)
 * [Strivers CP List](https://docs.google.com/document/d/1vShwt8yXYUOgkF53-iYAuJXWR7Yi5VSJrW2xB49o0PM/edit)
-* [Love Babbars List](https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view)
+* [Love Babbars List](https://450dsa.com/)
 * [Geeks for Geeks Must Do Questions](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/?ref=shm)
 * [Leetcode](https://leetcode.com/problemset/top-interview-questions/)
 ### Learning sprint 1
